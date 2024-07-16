@@ -207,7 +207,7 @@ https://app.netlify.com/signup
 
 به ترتیب مراحل زیر رو می‌تونید برید.
 
-![Github repository](image.png)
+![Github repository](./guide/gh-repo.png)
 
 بعد از اینکه روی `Settings` کلیک کردید. وارد صفحه‌ی تنظیمات ریپازیتوری می‌شید.
 
